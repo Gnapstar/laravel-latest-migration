@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Laravel Latest Migration: Open latest Laravel migration",
+        "command": "laravel_latest_migration"
+    }
+]
